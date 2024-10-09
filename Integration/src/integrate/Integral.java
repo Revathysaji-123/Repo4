@@ -7,6 +7,7 @@ public class Integral {
 		if(age>18)
 		{
 			System.out.println("Age is greater than 18");
+			System.out.println("eligible");
 		}
 
 	}
